@@ -1,4 +1,4 @@
-![image](https://github.com/Hemasagar2299/E-Commerce-Store-Analysis/assets/154252928/4102988c-b6d4-4c7a-8944-18b156bc5c38)# E-Commerce-Store-Analysis
+# E-Commerce-Store-Analysis
 ![Olist](https://github.com/Hemasagar2299/E-Commerce-Store-Analysis/assets/154252928/4b4bb16c-a914-4bbb-aeb3-780af1afc2ef)
 
 ## About Comapny
