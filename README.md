@@ -7,11 +7,27 @@
  ## problem Statement
  The Olist Store Analysis aims to analyze customer purchasing patterns and payment statistics on an E-commerce platform, Olist. This project covers several key performance indicators (KPIs) such as weekday vs weekend sales, payment statistics, delivery time, and customer behavior.Leverage existing data to gain valuable insights and formulate targeted marketing approaches.
 
-## Key Performance Indicators
- Weekday Vs Weekend Payment Statistics
-Number of Orders with review score 5 and payment type as credit card.
-Average number of delivery days taken for pet shop 
-Average price and payment values from customers of Sao Paulo city
-Average Shipping Days Based On Review
-Top 10 States With Profits
+Got it! Here is an updated version of the project objectives section, incorporating the specific KPIs you've mentioned:
+
+---
+
+## Project Objectives
+
+1. **Purchasing Patterns**:
+    - Analyze customer purchasing patterns to understand differences in sales between weekdays and weekends.
+2. **Payment Statistics**:
+    - Evaluate various payment methods and their impact on sales, including transaction volumes and average transaction values.
+3. **Delivery Time Analysis**:
+    - Assess delivery times to identify delays and improve logistical efficiency.
+4. **Customer Behavior**:
+    - Study customer behavior to identify trends and preferences, such as repeat purchases and product ratings.
+5. **Key Performance Indicators (KPIs)**:
+    - **Weekday vs. Weekend Payment Statistics**: Compare sales performance between weekdays and weekends.
+    - **Number of Orders with Review Score 5 and Payment Type as Credit Card**: Analyze the number of high-rated orders paid with credit cards.
+    - **Average Number of Delivery Days Taken for Pet Shop Orders**: Calculate the average delivery time for pet shop products.
+    - **Average Price and Payment Values from Customers in São Paulo**: Determine the average purchase and payment amounts from customers in São Paulo.
+    - **Average Shipping Days Based on Review Scores**: Measure the shipping time and correlate it with customer review scores.
+    - **Top 10 States with Profits**: Identify the top 10 states by profit generated.
+
+
 
