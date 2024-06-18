@@ -26,6 +26,9 @@
     - **Top 10 States with Profits**: Identify the top 10 states by profit generated.
   
       
+![Power Bi dashboard](https://github.com/Hemasagar2299/E-Commerce-Store-Analysis/assets/154252928/4ef561b4-42bf-466d-b702-f22450d67dee)
+  
+      
 
 
 
