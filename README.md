@@ -7,12 +7,8 @@
  ## problem Statement
  The Olist Store Analysis aims to analyze customer purchasing patterns and payment statistics on an E-commerce platform, Olist. This project covers several key performance indicators (KPIs) such as weekday vs weekend sales, payment statistics, delivery time, and customer behavior.Leverage existing data to gain valuable insights and formulate targeted marketing approaches.
 
-Got it! Here is an updated version of the project objectives section, incorporating the specific KPIs you've mentioned:
-
----
 
 ## Project Objectives
-
 1. **Purchasing Patterns**:
     - Analyze customer purchasing patterns to understand differences in sales between weekdays and weekends.
 2. **Payment Statistics**:
