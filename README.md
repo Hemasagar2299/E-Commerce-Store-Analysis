@@ -24,6 +24,8 @@
     - **Average Price and Payment Values from Customers in São Paulo**: Determine the average purchase and payment amounts from customers in São Paulo.
     - **Average Shipping Days Based on Review Scores**: Measure the shipping time and correlate it with customer review scores.
     - **Top 10 States with Profits**: Identify the top 10 states by profit generated.
+  
+      
 
 
 
