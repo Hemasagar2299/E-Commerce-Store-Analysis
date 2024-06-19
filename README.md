@@ -28,6 +28,8 @@
   ### You Can find here Power Bi Report by acomplished all Requirments
 ![Power Bi dashboard](https://github.com/Hemasagar2299/E-Commerce-Store-Analysis/assets/154252928/4ef561b4-42bf-466d-b702-f22450d67dee)
 
+### TO interact with power Bi Report(download file)-https://github.com/Hemasagar2299/Project-files
+
 ## Conclusion
 The Olist Store Analysis project provides valuable insights into customer behavior and payment statistics. The analysis of these KPIs helps Olist in identifying areas of improvement and creating targeted marketing campaigns. As a data analyst, I have used Excel and Power BI to clean and manipulate the dataset and create meaningful visualizations. This project serves as a great example of how data analysis can help businesses make informed decisions.
 
